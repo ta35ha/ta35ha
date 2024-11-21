@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm TAHA PERİSTER</h1>
-<h3 align="center">A passionate frontend developer from TURKEY</h3>
+<h3 align="center">A passionate frontend developer from İZMİR/TURKEY</h3>
+
+- 🔭 I’m currently working on **FRONTEND**
 
 - 🌱 I’m currently learning **REACT,COURSES ETC.**
 
+- 👯 I’m looking to collaborate on **PROJECT**
+
 - 👨‍💻 All of my projects are available at [https://github.com/ta35ha](https://github.com/ta35ha)
 
-- 💬 Ask me about **REACT,CSS3,HTML5**
+- 💬 Ask me about **ANYTHING...**
 
 - 📫 How to reach me **tahaprstr@gmail.com**
 
-- ⚡ Fun fact **I THINK I AM FUNNY :)**
+- ⚡ Fun fact **REACT,CSS3,HTML5.BOOTSTRAP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
