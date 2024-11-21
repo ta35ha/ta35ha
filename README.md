@@ -1,1 +1,1 @@
-# ta35ha-Taha-PER-STER
+# ta35ha-Taha-PERISTER
